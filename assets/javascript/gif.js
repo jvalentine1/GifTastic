@@ -1,5 +1,5 @@
 // Global Variables
-var topics = ["the lion king", "the jungle book", "tommy boy", "aquaman", "iron man", "bumblebee"];
+var topics = ["the lion king", "the jungle book", "tommy boy", "aquaman", "iron man", "bumblebee", "jumanji", "a star is born"];
 var apiKey = "yQyKmMNilkbOD8useAuNjnrGpiiwrqyk";
 
 //this function calls the api and then cycles through the data array and creates and populates elements
