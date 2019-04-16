@@ -1,0 +1,41 @@
+body {
+    background-image: url(https://loving-newyork.com/wp-content/uploads/2019/01/Radio-City-Music-Hall-190111130316009-1600x960.jpg);
+}
+
+.title {
+    background-color: black;
+    border: solid 2px silver;
+}
+
+h1 {
+    color: ivory;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.add-but {
+    border: solid 1px silver;
+    background-color:red;
+}
+
+.movie-buttons {
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.p {
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.gif {
+    border: solid silver 1px;
+}
+
+.span-float {
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
